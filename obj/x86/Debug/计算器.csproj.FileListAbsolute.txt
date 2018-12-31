@@ -1,0 +1,11 @@
+G:\VC++项目\计算器\计算器\bin\Debug\计算器.exe
+G:\VC++项目\计算器\计算器\bin\Debug\计算器.pdb
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.Properties.Resources.resources
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.csproj.GenerateResource.Cache
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.exe
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.pdb
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.csprojResolveAssemblyReference.cache
+G:\VC++项目\计算器\计算器\obj\x86\Debug\Interop.MSScriptControl.dll
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.csproj.ResolveComReference.cache
+G:\VC++项目\计算器\计算器\bin\Debug\Interop.MSScriptControl.dll
+G:\VC++项目\计算器\计算器\obj\x86\Debug\计算器.Form1.resources
